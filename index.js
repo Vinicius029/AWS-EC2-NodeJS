@@ -52,13 +52,29 @@ const linguagens = [
     {
         linguagem: "Rust",
         criador: "Graydon Hoare",
-        helloWorld: "println!(\"Hello, world!\");"
+        helloWorld: "println!('Hello, world!');"
     },
     {
         linguagem: "Kotlin",
         criador: "JetBrains",
-        helloWorld: "println(\"Hello, World!\")"
+        helloWorld: "println('Hello, World!')"
+    },
+    {
+        linguagem: "Kotlin",
+        criador: "JetBrains",
+        helloWorld: "println('Hello, World!')"
+    },
+    {
+        linguagem: "Perl",
+        criador: "Larry Wall",
+        helloWorld: "print 'Hello World';"
+    },
+    {
+        linguagem: "TypeScript",
+        criador: "Anders Hejlsberg",
+        helloWorld: "console.log('Hello World');"
     }
+    
 ];
 
 
